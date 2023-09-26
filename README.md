@@ -5,7 +5,7 @@ Traffic Management
 SYNOPSIS
 1.Introduction
 2.Why Traffic occur
-3.How to control traffic management
+ 3.How to control traffic management
 4.What are the requirements
 5.Advantages
 6.Disadvantages
